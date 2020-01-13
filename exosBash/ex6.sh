@@ -1,5 +1,5 @@
 #!/bin/bash
-65;5402;1c# guigur 13/01/2020
+# guigur 13/01/2020
 #Créer un script qui vous propose le menu suivant :
 #1 - Vérifier l'existence d'un utilisateur
 #2 - Connaître l'UID d'un utilisateur
